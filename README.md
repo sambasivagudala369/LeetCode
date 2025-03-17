@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sambasivagudala369/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/sambasivagudala369/LeetCode/tree/master/0075-sort-colors) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sambasivagudala369/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/sambasivagudala369/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sambasivagudala369/LeetCode/tree/master/0148-sort-list) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sambasivagudala369/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sambasivagudala369/LeetCode/tree/master/0148-sort-list) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Counting
