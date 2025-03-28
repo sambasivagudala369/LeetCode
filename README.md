@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/sambasivagudala369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
