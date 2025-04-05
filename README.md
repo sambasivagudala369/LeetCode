@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1044-find-common-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1044-find-common-characters) |
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sambasivagudala369/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3227-find-missing-and-repeated-values](https://github.com/sambasivagudala369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -118,4 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sambasivagudala369/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
