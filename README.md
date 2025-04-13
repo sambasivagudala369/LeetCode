@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/sambasivagudala369/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/sambasivagudala369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -145,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/sambasivagudala369/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
