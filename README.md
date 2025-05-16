@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sambasivagudala369/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sambasivagudala369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/sambasivagudala369/LeetCode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sambasivagudala369/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sambasivagudala369/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Counting
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sambasivagudala369/LeetCode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -157,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/sambasivagudala369/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/sambasivagudala369/LeetCode/tree/master/2998-count-symmetric-integers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
