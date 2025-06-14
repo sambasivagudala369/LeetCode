@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/sambasivagudala369/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sambasivagudala369/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sambasivagudala369/LeetCode/tree/master/0409-longest-palindrome) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sambasivagudala369/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sambasivagudala369/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sambasivagudala369/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sambasivagudala369/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/sambasivagudala369/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/sambasivagudala369/LeetCode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
