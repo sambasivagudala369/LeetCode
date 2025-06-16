@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/sambasivagudala369/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/sambasivagudala369/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
