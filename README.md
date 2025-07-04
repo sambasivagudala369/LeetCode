@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/sambasivagudala369/LeetCode/tree/master/0742-to-lower-case) |
 | [1044-find-common-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1044-find-common-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/sambasivagudala369/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/sambasivagudala369/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
