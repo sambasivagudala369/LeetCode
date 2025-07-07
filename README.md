@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/sambasivagudala369/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1044-find-common-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1044-find-common-characters) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sambasivagudala369/LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/sambasivagudala369/LeetCode/tree/master/0409-longest-palindrome) |
+| [0594-longest-harmonious-subsequence](https://github.com/sambasivagudala369/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1044-find-common-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1044-find-common-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sambasivagudala369/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/sambasivagudala369/LeetCode/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/sambasivagudala369/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/sambasivagudala369/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sambasivagudala369/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
