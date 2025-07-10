@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sambasivagudala369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/sambasivagudala369/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sambasivagudala369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/sambasivagudala369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sambasivagudala369/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sambasivagudala369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
