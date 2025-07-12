@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sambasivagudala369/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2215-finding-3-digit-even-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2215-finding-3-digit-even-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sambasivagudala369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/sambasivagudala369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sambasivagudala369/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2215-finding-3-digit-even-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/sambasivagudala369/LeetCode/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/sambasivagudala369/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sambasivagudala369/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Heap (Priority Queue)
 |  |
