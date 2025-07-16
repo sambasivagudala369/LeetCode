@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/sambasivagudala369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/sambasivagudala369/LeetCode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3429-special-array-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sambasivagudala369/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sambasivagudala369/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String Matching
 |  |
 | ------- |
