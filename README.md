@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sambasivagudala369/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sambasivagudala369/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -215,11 +216,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sambasivagudala369/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/sambasivagudala369/LeetCode/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sambasivagudala369/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/sambasivagudala369/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sambasivagudala369/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sambasivagudala369/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Heap (Priority Queue)
