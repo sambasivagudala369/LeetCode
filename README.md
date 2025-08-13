@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sambasivagudala369/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/sambasivagudala369/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sambasivagudala369/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sambasivagudala369/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sambasivagudala369/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sambasivagudala369/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sambasivagudala369/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sambasivagudala369/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
