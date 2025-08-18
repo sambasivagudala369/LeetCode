@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sambasivagudala369/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sambasivagudala369/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1044-find-common-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1044-find-common-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sambasivagudala369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sambasivagudala369/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String Matching
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sambasivagudala369/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sambasivagudala369/LeetCode/tree/master/0342-power-of-four) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sambasivagudala369/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sambasivagudala369/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sambasivagudala369/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
