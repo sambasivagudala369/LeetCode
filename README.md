@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sambasivagudala369/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sambasivagudala369/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/sambasivagudala369/LeetCode/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/sambasivagudala369/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/sambasivagudala369/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sambasivagudala369/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sambasivagudala369/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sambasivagudala369/LeetCode/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/sambasivagudala369/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0941-sort-array-by-parity](https://github.com/sambasivagudala369/LeetCode/tree/master/0941-sort-array-by-parity) |
