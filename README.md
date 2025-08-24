@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/sambasivagudala369/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sambasivagudala369/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sambasivagudala369/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sambasivagudala369/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/sambasivagudala369/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sambasivagudala369/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/sambasivagudala369/LeetCode/tree/master/3447-clear-digits) |
