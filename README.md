@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sambasivagudala369/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/sambasivagudala369/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sambasivagudala369/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sambasivagudala369/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sambasivagudala369/LeetCode/tree/master/0342-power-of-four) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sambasivagudala369/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/sambasivagudala369/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sambasivagudala369/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sambasivagudala369/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sambasivagudala369/LeetCode/tree/master/0290-word-pattern) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sambasivagudala369/LeetCode/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/sambasivagudala369/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sambasivagudala369/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sambasivagudala369/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sambasivagudala369/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sambasivagudala369/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sambasivagudala369/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
