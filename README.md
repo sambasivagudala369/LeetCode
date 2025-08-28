@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/sambasivagudala369/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/sambasivagudala369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sambasivagudala369/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/sambasivagudala369/LeetCode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3429-special-array-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
