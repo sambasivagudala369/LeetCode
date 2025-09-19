@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sambasivagudala369/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/sambasivagudala369/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sambasivagudala369/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/sambasivagudala369/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sambasivagudala369/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sambasivagudala369/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sambasivagudala369/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/sambasivagudala369/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sambasivagudala369/LeetCode/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/sambasivagudala369/LeetCode/tree/master/3830-find-closest-person) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/sambasivagudala369/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sambasivagudala369/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/sambasivagudala369/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -334,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sambasivagudala369/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sambasivagudala369/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/sambasivagudala369/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
