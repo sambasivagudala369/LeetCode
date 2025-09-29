@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/sambasivagudala369/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/sambasivagudala369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sambasivagudala369/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sambasivagudala369/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/sambasivagudala369/LeetCode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/sambasivagudala369/LeetCode/tree/master/3429-special-array-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/sambasivagudala369/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sambasivagudala369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/sambasivagudala369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sambasivagudala369/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sambasivagudala369/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sambasivagudala369/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sambasivagudala369/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/sambasivagudala369/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sambasivagudala369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sambasivagudala369/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sambasivagudala369/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/sambasivagudala369/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
