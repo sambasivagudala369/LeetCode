@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/sambasivagudala369/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/sambasivagudala369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sambasivagudala369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2169-count-operations-to-obtain-zero](https://github.com/sambasivagudala369/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/sambasivagudala369/LeetCode/tree/master/2383-add-two-integers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sambasivagudala369/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/sambasivagudala369/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sambasivagudala369/LeetCode/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/sambasivagudala369/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/sambasivagudala369/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sambasivagudala369/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/sambasivagudala369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/sambasivagudala369/LeetCode/tree/master/3447-clear-digits) |
